@@ -16,4 +16,3 @@ gitops-runtime:
           key: token
     runtime:
       name: ci-runtime
-      isConfigurationRuntime: true
