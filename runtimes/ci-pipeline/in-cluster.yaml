@@ -15,7 +15,7 @@ spec:
   source:
     directory:
       include: >-
-        {all-runtimes-all-clusters/**/*.yaml,all-runtimes-all-clusters/*.yaml,ci-pipeline/default-git-source.yaml,control-planes/**/*.yaml,control-planes/*.yaml,runtimes/ci-pipeline/**/*.yaml,runtimes/ci-pipeline/*.yaml}
+        {all-runtimes-all-clusters/**/*.yaml,all-runtimes-all-clusters/*.yaml,ci-pipeline/cf-gitops-runtime.yaml,ci-pipeline/default-git-source.yaml,control-planes/**/*.yaml,control-planes/*.yaml,runtimes/ci-pipeline/**/*.yaml,runtimes/ci-pipeline/*.yaml}
       recurse: true
     path: resources
     repoURL: https://github.com/Akshiv20/codefresh-training-app.git
