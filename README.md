@@ -7,7 +7,7 @@ Configuration definitions that will be stored in this repository:
 - Codefresh 3rd party integrations configuration
 - OAuth2 authentication applications
 
-Configurations will be synced and applied to specific runtimes or to all runtimes assoiciated wtih your Codefresh Account.
+Configurations will be synced and applied to specific runtimes or to all runtimes associated with your Codefresh Account.
 
 ## Repository structure
 The base path of the repository will include 2 directories - resources and runtimes.
