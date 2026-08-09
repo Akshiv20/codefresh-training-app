@@ -5,7 +5,7 @@ Configuration definitions that will be stored in this repository:
 - Argo CD managed cluster
 - Git sources
 - Codefresh 3rd party integrations configuration
-- Ouath2 Authentications applications
+- OAuth2 authentication applications
 
 Configurations will be synced and applied to specific runtimes or to all runtimes assoiciated wtih your Codefresh Account.
 
